@@ -1,0 +1,25 @@
+,plataforma,variavel,algoritimo,passos,msle
+0,CAPX,produção bruta medidor,XGBRegressor,25,0.05660823311431813
+1,CAPX,produção líquida de óleo,XGBRegressor,25,0.04717321502333915
+2,CAPX,gás produzido,XGBRegressor,25,0.047503473870955694
+3,CVIX,produção bruta medidor,XGBRegressor,25,0.07615982918317969
+4,CVIX,produção líquida de óleo,XGBRegressor,25,0.052699910012819796
+5,CVIX,gás produzido,XGBRegressor,25,0.1286051413045282
+6,P-43,produção bruta medidor,XGBRegressor,25,0.0019071079293205815
+7,P-43,produção líquida de óleo,XGBRegressor,25,0.002664214845801627
+8,P-43,gás produzido,XGBRegressor,25,0.0012363512987839664
+9,P-58,produção bruta medidor,XGBRegressor,25,0.04870870558125061
+10,P-58,produção líquida de óleo,XGBRegressor,25,0.08631427422830365
+11,P-58,gás produzido,XGBRegressor,25,0.0192460495140057
+12,P-48,produção bruta medidor,XGBRegressor,25,0.06422469017532967
+13,P-48,produção líquida de óleo,XGBRegressor,25,0.055888526776355155
+14,P-48,gás produzido,XGBRegressor,25,0.06239948401250283
+15,FPCMB,produção bruta medidor,XGBRegressor,25,0.005291532883626908
+16,FPCMB,produção líquida de óleo,XGBRegressor,25,0.004274691024278013
+17,FPCMB,gás produzido,XGBRegressor,25,0.003884528139297047
+18,FPCSQ,produção bruta medidor,XGBRegressor,25,0.0007613274968603534
+19,FPCSQ,produção líquida de óleo,XGBRegressor,25,0.0020524430957874666
+20,FPCSQ,gás produzido,XGBRegressor,25,0.0007725851726898685
+21,P-62,produção bruta medidor,XGBRegressor,25,0.026468066974230858
+22,P-62,produção líquida de óleo,XGBRegressor,25,0.027338887210181566
+23,P-62,gás produzido,XGBRegressor,25,0.03854672916938417
